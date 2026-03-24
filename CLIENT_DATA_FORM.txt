@@ -1,0 +1,242 @@
+================================================================================
+                     YOGA WEBSITE - CLIENT DATA FORM
+================================================================================
+
+Please fill in your information below. Replace the example text with your own.
+Send this completed file back to us when done.
+
+--------------------------------------------------------------------------------
+                         SECTION 1: STUDIO INFORMATION
+--------------------------------------------------------------------------------
+
+Studio Name: 
+Tagline: 
+
+Address Line 1: 
+Address Line 2: 
+City, State, ZIP: 
+
+Phone Number: 
+Email Address: 
+
+STUDIO HOURS:
+Monday - Friday: 
+Saturday: 
+Sunday: 
+
+
+--------------------------------------------------------------------------------
+                         SECTION 2: INSTRUCTOR INFORMATION
+--------------------------------------------------------------------------------
+
+Full Name: 
+Title/Role: 
+
+BIOGRAPHY (Write 2-3 paragraphs about yourself):
+
+
+TEACHING PHILOSOPHY (Your approach to teaching):
+
+
+CERTIFICATIONS (List each on a new line, mention year if possible):
+-
+-
+-
+-
+-
+
+INSTRUCTOR PHOTO:
+Please provide a high-quality portrait photo (vertical orientation preferred)
+File name: _______________
+
+
+--------------------------------------------------------------------------------
+                         SECTION 3: STATISTICS / NUMBERS
+--------------------------------------------------------------------------------
+
+Number of Students Trained: 
+Years of Teaching Experience: 
+Total Classes Conducted: 
+Workshops Organized: 
+Average Rating (out of 5): 
+
+
+--------------------------------------------------------------------------------
+                         SECTION 4: YOUR JOURNEY / TIMELINE
+--------------------------------------------------------------------------------
+
+List important milestones in your yoga journey (add or remove as needed):
+(Providing dummy data so you can get an idea)
+
+Year: 2008
+Title: The Beginning
+Description: First yoga class in Germany. A moment that changed everything.
+
+Year: 2010
+Title: 200-Hour Teacher Training
+Description: Completed foundational training at a renowned place in any country name.
+
+Year: 2012
+Title: First Teaching Position
+Description: Began teaching at local studios, discovering a passion for guiding others.
+
+Year: 2014
+Title: 500-Hour Advanced Training
+Description: Deepened practice with advanced studies in yoga philosophy and anatomy.
+
+Year: 2016
+Title: Studio Founded
+Description: Opened the studio to create a community-centered practice space.
+
+Year: 2018
+Title: International Retreats
+Description: Started leading yoga retreats in Bali, Costa Rica, and Portugal.
+
+Year: 2020
+Title: Online Expansion
+Description: Launched virtual classes, reaching students worldwide.
+
+Year: 2024
+Title: Continued Growth
+Description: Growing community and expanding workshop offerings.
+
+
+--------------------------------------------------------------------------------
+                         SECTION 5: YOGA CLASSES / PRACTICES OFFERED
+--------------------------------------------------------------------------------
+
+List each yoga style you offer (copy this block for each class):
+(You can completely modify the way this section will look like, change the points or structure as per your requirement)
+
+CLASS 1:
+Name: Hatha Yoga
+Difficulty: Beginner / Intermediate / Advanced / All Levels (choose one)
+Duration: 60 min
+Description: The foundation of all yoga styles. Hatha focuses on physical 
+postures and breathing techniques, making it perfect for building a strong 
+foundation in yoga practice.
+Benefits (list 3-5):
+- Improves flexibility and balance
+- Builds core strength
+- Reduces stress and anxiety
+- Enhances body awareness
+- Promotes relaxation
+
+CLASS 2:
+Name: Vinyasa Flow
+Difficulty: Intermediate
+Duration: 75 min
+Description: A dynamic practice that links movement with breath. Flow through 
+sequences of poses in a graceful, dance-like manner.
+Benefits:
+- Increases cardiovascular health
+- Builds lean muscle
+- Improves coordination
+- Boosts mental focus
+- Releases tension
+
+CLASS 3:
+Name: 
+Difficulty: 
+Duration: 
+Description: 
+Benefits:
+- 
+- 
+- 
+
+(Add more classes as needed)
+
+
+--------------------------------------------------------------------------------
+                         SECTION 6: FREQUENTLY ASKED QUESTIONS
+--------------------------------------------------------------------------------
+
+List common questions your clients ask (add or remove as needed):
+
+Q1: Do I need to be flexible to start yoga?
+A1: Absolutely not! Yoga is a journey, not a destination. Flexibility comes 
+with practice. Our classes are designed to meet you exactly where you are.
+
+Q2: What should I bring to class?
+A2: Bring yourself with an open mind! We recommend wearing comfortable, 
+stretchy clothing. Yoga mats and props are provided, but feel free to bring 
+your own mat if you prefer.
+
+Q3: How often should I practice yoga?
+A3: Consistency matters more than frequency. Starting with 2-3 sessions per 
+week allows your body to adapt and recover.
+
+Q4: Are online classes available?
+A4:No currently we dont support online, will exapnd soon.
+
+Q5: 
+A5: 
+
+Q6: 
+A6: 
+
+(Add more questions as needed)
+
+
+--------------------------------------------------------------------------------
+                         SECTION 7: SOCIAL MEDIA & CONTACT LINKS
+--------------------------------------------------------------------------------
+
+Instagram URL: https://instagram.com/yourstudio
+Instagram Handle: @yourstudio
+
+Facebook URL: https://facebook.com/yourstudio
+Facebook Page Name: Your Studio Name
+
+WhatsApp Number (with country code): 
+
+Email for Contact Form: hello@yourstudio.com
+
+
+--------------------------------------------------------------------------------
+                         SECTION 8: IMAGES NEEDED
+--------------------------------------------------------------------------------
+
+Please provide the following images (high resolution preferred):
+
+[ ] Hero Background Image - Wide landscape yoga/nature photo
+[*] Instructor Portrait - Professional headshot (vertical)
+[*] Studio Interior Photos (2-3 images)
+[*] Class/Session Photos (3-5 images showing classes in action)
+[*] Logo File (PNG with transparent background)
+
+[*] Fields with stars are reccommend to share, other are optional.
+--------------------------------------------------------------------------------
+                         SECTION 9: GOOGLE MAPS
+--------------------------------------------------------------------------------
+
+Your exact address for Google Maps:
+Full Address: 
+
+
+Or provide Google Maps embed link if you have one:
+Embed URL: 
+
+
+================================================================================
+                              ADDITIONAL NOTES
+================================================================================
+
+Write any other information you want included on the website:
+
+
+
+
+
+
+
+================================================================================
+                              THANK YOU!
+================================================================================
+
+Once completed, please send this file along with all images to:
+pranitamohite03@gmail.com
+or
++91 8459908181
+================================================================================
