@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+  (function(l) {
+    if (l.search[1] === 'p') {
+      var decoded = l.search.slice(1).split('&').map(function(s) {
+        return s.replace(/~and~/g, '&');
+      });
+      window.history.replaceState(
+        null, null,
+        l.pathname.slice(0, -1) + (decoded[0] ? '/' + decoded[0].slice(2) : '') +
+        (decoded[1] ? '?' + decoded[1].slice(2) : '') +
+        l.hash
+      );
+    }
+  }(window.location));
+</script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/RisingVoiceYoga/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rising Voice Yoga | Find Your Balance, Discover Your Strength</title>
+    <meta
+      name="description"
+      content="Transform your life through yoga at Rising Voice Yoga. Expert-led classes in Hatha, Vinyasa, Ashtanga, and more. Join our peaceful community today."
+    />
+    <meta
+      name="keywords"
+      content="yoga, yoga studio, meditation, mindfulness, hatha yoga, vinyasa, wellness, fitness"
+    />
+    <meta name="author" content="Rising Voice Yoga" />
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rising Voice Yoga" />
+    <meta
+      property="og:description"
+      content="Find your balance, discover your strength. Join our welcoming yoga community."
+    />
+    <meta property="og:image" content="/og-image.jpg" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#7a8f61" />
+    <script type="module" crossorigin src="/RisingVoiceYoga/assets/index-HtrmM_cp.js"></script>
+    <link rel="stylesheet" crossorigin href="/RisingVoiceYoga/assets/index-B1rM1ZK0.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
