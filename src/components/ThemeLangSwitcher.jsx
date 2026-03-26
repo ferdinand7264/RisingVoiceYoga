@@ -152,7 +152,7 @@ const ThemeLangSwitcher = () => {
                   className="w-full flex items-center gap-3 px-3 py-2.5 text-left text-sm text-gray-700 dark:text-gray-300"
                 >
                   <span className="text-lg">{lang.flag}</span>
-                  <span className="flex-1">{lang.nativeName}</span>
+                  <span className="flex-1">{lang.name}</span>
                   {currentLanguage === code && (
                     <Check className="w-4 h-4" style={{ color: theme.colors.primary[500] }} />
                   )}

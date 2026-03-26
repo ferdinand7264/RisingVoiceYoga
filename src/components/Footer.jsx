@@ -35,7 +35,7 @@ const Footer = () => {
                 {/* Main circle with green background */}
                 <div className="absolute inset-[2px] rounded-full bg-sage-600 shadow-lg flex items-center justify-center overflow-hidden ring-2 ring-sage-500/30">
                   <img
-                    src="/logo.png"
+                    src={`${import.meta.env.BASE_URL}logo.png`}
                     alt="Rising Voice Yoga"
                     className="w-16 h-16 object-contain scale-[2]"
                   />

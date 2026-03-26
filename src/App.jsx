@@ -131,7 +131,7 @@ function App() {
   return (
     <ThemeProvider>
       <LanguageProvider>
-        <Router>
+        <Router basename={import.meta.env.BASE_URL}>
           <ScrollToTop />
           <div className="min-h-screen bg-white font-sans antialiased overflow-x-hidden">
             <Navbar />
