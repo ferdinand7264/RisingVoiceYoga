@@ -21,7 +21,20 @@ const ScrollToTop = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
+    // Temporarily disable smooth scroll for instant reset (mobile compatibility)
+    const html = document.documentElement;
+    const originalBehavior = html.style.scrollBehavior;
+    html.style.scrollBehavior = "auto";
+
+    // Multiple approaches for cross-browser mobile support
     window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0; // For Safari
+
+    // Restore smooth scroll after a frame
+    requestAnimationFrame(() => {
+      html.style.scrollBehavior = originalBehavior;
+    });
   }, [pathname]);
 
   return null;
