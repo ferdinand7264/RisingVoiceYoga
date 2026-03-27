@@ -16,12 +16,12 @@ import Practices from "./pages/Practices";
 import FAQ from "./pages/FAQ";
 import Contact from "./pages/Contact";
 
-// Smooth scroll to top on route change with easing
+// Scroll to top on route change - instant for consistent mobile behavior
 const ScrollToTop = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo(0, 0);
   }, [pathname]);
 
   return null;
